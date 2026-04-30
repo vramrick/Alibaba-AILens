@@ -71,7 +71,7 @@ body:
         - Node: 20
         - Java: 21
         - Docker: 24
-        - AI-Lens version / commit:
+        - AI Lens version / commit:
     validations:
       required: false
 

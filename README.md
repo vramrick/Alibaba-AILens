@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/images/logo.jpg" alt="AI Lens Logo" width="480" />
 
-  <h1>AI-Lens</h1>
+  <h1>AI Lens</h1>
 
 <p align="center">
   <a href="https://github.com/alibaba/AILens">
@@ -29,7 +29,7 @@
 
 [English](README.md) | [中文](README_CN.md)
 
-**AI-Lens** is an open-source observability platform for AI agent training and production systems. It provides end-to-end visibility into reinforcement learning (RL) training pipelines — from experiment management and trajectory analysis to real-time service monitoring and trace exploration.
+**AI Lens** is an open-source observability platform for AI agent training and production systems. It provides end-to-end visibility into reinforcement learning (RL) training pipelines — from experiment management and trajectory analysis to real-time service monitoring and trace exploration.
 
 ## Features
 

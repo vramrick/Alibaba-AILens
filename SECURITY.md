@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-The AI-Lens team takes security seriously. If you discover a security vulnerability, please report it responsibly — **do not open a public GitHub issue**.
+The AI Lens team takes security seriously. If you discover a security vulnerability, please report it responsibly — **do not open a public GitHub issue**.
 
 ### How to Report
 
@@ -29,7 +29,7 @@ Only the latest release and the `main` branch receive active security updates.
 
 ## Security Considerations
 
-When self-hosting AI-Lens:
+When self-hosting AI Lens:
 
 - Keep ClickHouse credentials out of version control — use environment variables or secrets managers
 - Restrict ClickHouse network access to gateway service only

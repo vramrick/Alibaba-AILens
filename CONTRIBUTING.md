@@ -1,4 +1,4 @@
-# Contributing to AI-Lens
+# Contributing to AI Lens
 
 Thank you for your interest in contributing! This document covers how to set up a development environment and submit changes.
 

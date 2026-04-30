@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/images/logo.jpg" alt="AI Lens Logo" width="480" />
 
-  <h1>AI-Lens</h1>
+  <h1>AI Lens</h1>
 
 <p align="center">
   <a href="https://github.com/alibaba/AILens">
@@ -29,7 +29,7 @@
 
 [English](README.md) | [中文](README_CN.md)
 
-**AI-Lens** 是面向 AI Agent 训练与生产系统的开源可观测平台。提供强化学习（RL）训练全链路可见性——从实验管理、轨迹分析，到实时服务监控和链路查询。
+**AI Lens** 是面向 AI Agent 训练与生产系统的开源可观测平台。提供强化学习（RL）训练全链路可见性——从实验管理、轨迹分析，到实时服务监控和链路查询。
 
 ## 功能特性
 

@@ -1,4 +1,4 @@
-# OpenTelemetry Collector configuration for AI-Lens
+# OpenTelemetry Collector configuration for AI Lens
 #
 # Two pipelines in one collector:
 #   traces  — Agent service traces (OTel SDK) → otel_traces table
